@@ -1,14 +1,15 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Graeme Hoyle
+## Programming Assignment 2
+## 07:29 21/06/2014
 
-## Write a short comment describing this function
+## Stub function only
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Stub function only
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
